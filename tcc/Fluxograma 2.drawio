@@ -1,1 +1,50 @@
-<mxfile host="www.draw.io" modified="2019-11-12T05:34:05.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="PVMHobbpRynpqeiFkd6D" version="12.2.3" type="github" pages="1"><diagram id="Ac0ESJRBqIwfkSxW22vr" name="Page-1">1Vjfb5swEP5rkNqHTYChSR7TpOukrluVPmx5mhx8A2sGR8YkoX/9DDa/E63L1LG8oLuz73z+vg9jYaFFfLgXeBs9cgLMcm1ysNDSct3JxFfPIpDrgDed6UAoKNEhpwk80xcwQdtEM0og7UyUnDNJt91gwJMEAtmJYSH4vjvtB2fdVbc4hEHgOcBsGP1KiYx0dOpOmvhHoGFUrezcmP3FuJpsdpJGmPB9K4TuLLQQnEttxYcFsAK7Ched9+HEaN2YgES+JmG6sqcPm89iLR/o/fcoi/c/nXeurrLDLDMbXnAuCCTYWiBrPimfiBcE8lQ9F5lIS0NAABuIy4Egi1UPrYxbH9I6RZVOCqPEQOYVsAqObWHCQXV/S3i2KUcc5QieJQSI8fYRlfC8xUExvFciU7FIxswMmw2AkHA4iYxT4610CjwGKXI1xSSgSmx5V3v7hnCnYjFqkT01MWw0FtaVGxqUYZj4A1bQgJVP89VdjboyIE3xcew1WzuKSw0yLuGioPfGxt4fYG+5N6wEiu6UGRZmQcfVhrOUphJfVxPUeq05R9IEYEZfSuJoSKV2uszpnI3oV+nXvhxKa6pGo3Ry6nVSBOi3x7Vvl5eEqee4I2NaNdQC9Wn15X41X17Nl4/X5VlViX2TpUEp+uLkIlh/FhJ+caj7njcy6lUDndOpByAkZF5cfJQXMJymNOgCAwcqvynbfu8bb90aWRZ7tysnN45eBMjgrtSDUjXCMxHA717GIeQtSP0jiFYxAQxLuuu2cQxms8ITp6rBmlEHdRmd+T2mdPsmq32Z6hVCkxPSqApJLEKQg0Il6/W2/0IIxz5TlyUEswMN1H8rGK/Hs32mYNye8vybXqETglEM4rw1bVtMSN9CUv7wRL80SaFXSsofVVKz3pV3dq6kvBN35390BvnOOIJRshB5K6lw1+2xJq303kBo7iuFhsYUGpr2LuLo3I9dv1BfsWcLTbnNDxA9vfmLhO5+AQ==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-13T15:01:33.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="C2wmiZtuoTA4rBhXzrUv" version="12.2.4" type="github" pages="1">
+  <diagram id="Ac0ESJRBqIwfkSxW22vr" name="Page-1">
+    <mxGraphModel dx="670" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="8R08KbNrYtKiG_humwk1-2" value="Coordenação dos Cursos recebem documentações dos alunos" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="10" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8R08KbNrYtKiG_humwk1-3" value="LARE recebe essa documentação via malote" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="140" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8R08KbNrYtKiG_humwk1-5" value="&lt;div&gt;LARE(bolsista)&lt;/div&gt;&lt;div&gt;realiza digitalização&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="280" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8R08KbNrYtKiG_humwk1-7" value="&lt;div&gt;LARE alimenta BD&lt;/div&gt;&lt;div&gt;(automação)&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="412" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8R08KbNrYtKiG_humwk1-10" value="PROGRAD(ADM) busca dados no BD" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="544" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8R08KbNrYtKiG_humwk1-44" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8R08KbNrYtKiG_humwk1-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="950" as="sourcePoint"/>
+            <mxPoint x="370" y="544" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8R08KbNrYtKiG_humwk1-45" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8R08KbNrYtKiG_humwk1-5" target="8R08KbNrYtKiG_humwk1-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="500" as="sourcePoint"/>
+            <mxPoint x="230" y="560" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8R08KbNrYtKiG_humwk1-50" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8R08KbNrYtKiG_humwk1-3" target="8R08KbNrYtKiG_humwk1-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="190" as="sourcePoint"/>
+            <mxPoint x="240" y="140" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8R08KbNrYtKiG_humwk1-51" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8R08KbNrYtKiG_humwk1-2" target="8R08KbNrYtKiG_humwk1-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="sourcePoint"/>
+            <mxPoint x="380" y="290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
